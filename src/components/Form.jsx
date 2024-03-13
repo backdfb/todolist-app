@@ -72,7 +72,7 @@ const Section = styled.section`
   display: flex;
   align-items: center;
   padding: 20px 30px;
-  background-color: lightgrey;
+  background-color: pink;
   border-radius: 10px;
 `;
 
@@ -95,6 +95,6 @@ const Input = styled.input`
 const FormButton = styled.button`
   border: none;
   float: right;
-  background-color: teal;
-  color: white;
+  background-color: skyblue;
+  color: black;
 `;
